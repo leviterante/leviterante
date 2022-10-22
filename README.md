@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @leviterante
-- 👀 I’m interested in learning
+- 👀 I’m interested in HTML, CSS and Javascript
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on any full stack development
 - 📫 How to reach me : terantelevi@gmail.com
 
 <!---
