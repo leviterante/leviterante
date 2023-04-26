@@ -2,6 +2,7 @@
 - 👀 I’m interested in HTML, CSS and Javascript
 - 🌱 I’m currently learning web development
 - 📫 How to reach me : terantelevi@gmail.com
+- -> https://terante.netlify.app/
 
 <!---
 leviterante/leviterante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
